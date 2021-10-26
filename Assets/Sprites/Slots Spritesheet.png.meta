@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 8918ba8caefbaee4fa6c116b6355471f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4929684999136146710
+    second: Health
+  - first:
+      213: 4401785595294571606
+    second: Cherry
+  - first:
+      213: 6305376922096460612
+    second: Strawberry
+  - first:
+      213: -6354911912444158004
+    second: Heart
+  - first:
+      213: 42246563144450141
+    second: Coin
+  - first:
+      213: 2180399139552298556
+    second: Gem
+  - first:
+      213: -3631352101819202049
+    second: Lollipop
+  - first:
+      213: 4473440686484087056
+    second: Icecream
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 101
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f41c5362c96440800000000000000
+      internalID: 4929684999136146710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cherry
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 321
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd6f06da8461d30800000000000000
+      internalID: 4401785595294571606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 325
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443618047e2318750800000000000000
+      internalID: 6305376922096460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 342
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf1edf0941dec7a0800000000000000
+      internalID: -6354911912444158004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c43d7607169000800000000000000
+      internalID: 42246563144450141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 99
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3605951775524e10800000000000000
+      internalID: 2180399139552298556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lollipop
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c2bcc088da9dc0800000000000000
+      internalID: -3631352101819202049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icecream
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 89
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e9a16a9ad41e30800000000000000
+      internalID: 4473440686484087056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 37, y: -27}
+      - {x: 30, y: -54}
+      - {x: 30, y: -115}
+      - {x: 59, y: -169}
+      - {x: 85, y: -169}
+      - {x: 100, y: -163}
+      - {x: 120, y: -104}
+      - {x: 120, y: -48}
+      - {x: 104, y: -27}
+    - - {x: 160, y: -27}
+      - {x: 154, y: -55}
+      - {x: 154, y: -139}
+      - {x: 173, y: -164}
+      - {x: 184, y: -169}
+      - {x: 226, y: -169}
+      - {x: 244, y: -152}
+      - {x: 244, y: -41}
+      - {x: 238, y: -27}
+    - - {x: 4, y: -32}
+      - {x: -84, y: -32}
+      - {x: -101, y: -37}
+      - {x: -101, y: -143}
+      - {x: -89, y: -159}
+      - {x: -10, y: -159}
+      - {x: 8, y: -143}
+      - {x: 8, y: -47}
+    - - {x: -240, y: -137}
+      - {x: -228, y: -153}
+      - {x: -165, y: -153}
+      - {x: -136, y: -139}
+      - {x: -136, y: -73}
+      - {x: -140, y: -66}
+      - {x: -148, y: -49}
+      - {x: -220, y: -49}
+      - {x: -240, y: -59}
+    - - {x: -240, y: 198}
+      - {x: -240, y: 66}
+      - {x: -236, y: 63}
+      - {x: -149, y: 63}
+      - {x: -135, y: 65}
+      - {x: -135, y: 143}
+      - {x: -157, y: 198}
+    - - {x: -16, y: 196}
+      - {x: -57, y: 196}
+      - {x: -100, y: 151}
+      - {x: -100, y: 94}
+      - {x: -58, y: 63}
+      - {x: 4, y: 63}
+      - {x: 6, y: 66}
+      - {x: 6, y: 140}
+      - {x: -5, y: 193}
+    - - {x: 46, y: 192}
+      - {x: 30, y: 188}
+      - {x: 21, y: 167}
+      - {x: 21, y: 106}
+      - {x: 54, y: 67}
+      - {x: 107, y: 67}
+      - {x: 129, y: 117}
+      - {x: 129, y: 175}
+      - {x: 94, y: 192}
+    - - {x: 153, y: 171}
+      - {x: 153, y: 122}
+      - {x: 158, y: 104}
+      - {x: 189, y: 84}
+      - {x: 210, y: 84}
+      - {x: 246, y: 122}
+      - {x: 246, y: 171}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

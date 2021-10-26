@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8079c4caebbb4c2999b90504666f5376, type: 3}
+  m_Name: Level Paytable
+  m_EditorClassIdentifier: 
+  _heart: 20
+  _coin: 100
+  _gem: 100
+  _lollipop: 30
+  _icecream: 32
+  _health: 15
+  _cherry: 5
+  _strawberry: 10
