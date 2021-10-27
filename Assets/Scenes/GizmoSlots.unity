@@ -580,6 +580,7 @@ MonoBehaviour:
   _leaderboardsPopupPrefabRef: {fileID: 0}
   _notEnoughCoinsPopupPrefabRef: {fileID: 65567743576942922, guid: 3fc23ffb158b3d4449bd72f205838ef5, type: 3}
   _coinShopPopupPrefabRef: {fileID: 1383313087114413058, guid: 97129bb5e05b2457a8d0608736e795ca, type: 3}
+  _playerModel: {fileID: 11400000, guid: 43fdd362ec3129a49a7b7ce9f1626a0a, type: 2}
 --- !u!1 &492457316
 GameObject:
   m_ObjectHideFlags: 0

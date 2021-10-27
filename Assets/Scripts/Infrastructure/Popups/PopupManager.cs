@@ -1,5 +1,6 @@
 ﻿using System;
 using GizmoSlots.CoinShop;
+using GizmoSlots.Models;
 using GizmoSlots.NotEnoughPopup;
 using UnityEngine;
 using Object = UnityEngine.Object;
@@ -30,6 +31,10 @@ namespace GizmoSlots
         [Header("Coin Shop")] 
         [SerializeField] 
         private Object _coinShopPopupPrefabRef;
+
+        [Header("Player Modal")] 
+        [SerializeField]
+        private PlayerModel _playerModel;
         #endregion
 
         #region Fields
@@ -90,7 +95,7 @@ namespace GizmoSlots
         {
             if (_coinShopPopupControllerInstance is null)
             {
-                _coinShopPopupControllerInstance = _coinShopPopupFactory.Create(_popupsParentTransform);
+                _coinShopPopupControllerInstance = _coinShopPopupFactory.Create(_popupsParentTransform, _playerModel);
             }
             _coinShopPopupControllerInstance.ShowPopup();
         }

@@ -24,7 +24,6 @@ namespace GizmoSlots.CoinShop
             BuyCoinsClick?.Invoke();
         }
         
-        
 
         #endregion
     }

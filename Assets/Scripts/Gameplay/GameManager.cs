@@ -1,6 +1,5 @@
 ﻿using GizmoSlots;
 using GizmoSlots.Models;
-using GizmoSlots.NotEnoughPopup;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -25,9 +24,6 @@ namespace Gameplay
         [SerializeField]
         private Text _betPriceText;
 
-        private NotEnoughCoinsPopupView _notEnoughCoinsPopup;
-        
-        
         #endregion
 
         #region Methods

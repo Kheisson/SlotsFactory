@@ -1,3 +1,4 @@
+using GizmoSlots.Models;
 using UnityEngine;
 
 namespace GizmoSlots.CoinShop
@@ -10,13 +11,16 @@ namespace GizmoSlots.CoinShop
 
         private GameObject _viewGameObject;
 
+        private PlayerModel _model;
+
         #endregion
 
         #region Constructor
 
-        public CoinShopPopupController(CoinShopPopupView view)
+        public CoinShopPopupController(CoinShopPopupView view, PlayerModel model)
         {
             _view = view;
+            _model = model;
             _viewGameObject = _view.gameObject;
             SubscribeToViewEvents();
         }
@@ -35,7 +39,7 @@ namespace GizmoSlots.CoinShop
 
         private void OnBuyCoinsClick()
         {
-            
+            _model.AddCoins(100);
         }
         
         private void OnOkButtonClick()
